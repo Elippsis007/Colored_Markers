@@ -1,6 +1,6 @@
 <h1 align="center">CSS Color Markers</h1>
 
-<h2 align="center"><img src=""></h2>
+<h2 align="center"><img src="https://github.com/Elippsis007/Colored_Markers/blob/main/color_marker.png?raw=true"></h2>
 
 ## Project Overview
 
