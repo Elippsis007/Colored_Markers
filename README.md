@@ -5,4 +5,4 @@
 This is a quick CSS project I coded alongside FreeCodeCamp CSS course.
 
 ## Deployed Site
-[View the Premier League Hall Of Fame][(https://elippsis007.github.io/Colored_Markers/)]
+[View CSS Color Markers here: ][(https://elippsis007.github.io/Colored_Markers/)]
